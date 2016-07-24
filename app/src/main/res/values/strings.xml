@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pure Daily</string>
+    <string name="date_format">EEE, MMM d, yyyy</string>
+    <string name="action_star">Star</string>
+    <string name="favourite">Favourite</string>
+    <string name="action_settings">About</string>
+    <string name="about_me">About Me</string>
+</resources>

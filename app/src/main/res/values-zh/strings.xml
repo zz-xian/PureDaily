@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">纯纯日报</string>
+    <string name="date_format">yyyy 年 M 月 d日 EEE</string>
+    <string name="action_star">收藏</string>
+    <string name="favourite">收藏夹</string>
+    <string name="action_settings">关于</string>
+    <string name="about_me">关于我的</string>
+</resources>
